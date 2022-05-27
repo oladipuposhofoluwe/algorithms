@@ -1,15 +1,15 @@
 package com.algorithm.decagonDataStructureAlgo.buildingArray;
 
-public class Data {
+public class Datas {
     private int value;
     private String item;
 
-    public Data(int value, String item) {
+    public Datas(int value, String item) {
         this.value = value;
         this.item = item;
     }
 
-    public Data() {
+    public Datas() {
     }
 
     public int getValue() {
@@ -20,11 +20,21 @@ public class Data {
         this.value = value;
     }
 
-    public String getItem() {
-        return item;
-    }
-
     public void setItem(String item) {
         this.item = item;
+    }
+
+    public void addItem(int value, String item){
+        this.value = value;
+        this.item = item;
+    }
+
+
+    @Override
+    public String toString() {
+        return "Datas{" +
+                "value=" + value +
+                ", item='" + item + '\'' +
+                '}';
     }
 }
