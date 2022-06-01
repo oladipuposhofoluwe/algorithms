@@ -1,7 +1,4 @@
-package com.algorithm.takeUForwardAlgorithm;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.current.takeUForwardAlgorithm;
 
 public class TakeUForward {
     //Given a matrix if an element in the matrix is 0 then you

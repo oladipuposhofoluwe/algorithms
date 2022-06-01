@@ -1,7 +1,6 @@
-package com.algorithm.functionalProgramming.mapFlatmap;
+package com.current.functionalProgramming.mapFlatmap;
 
 import java.util.*;
-import java.util.stream.Stream;
 
 public class MapAndReduce {
 

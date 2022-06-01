@@ -1,4 +1,4 @@
-package com.algorithm.telusko;
+package com.current.telusko;
 
 public class FirstCode {
 }

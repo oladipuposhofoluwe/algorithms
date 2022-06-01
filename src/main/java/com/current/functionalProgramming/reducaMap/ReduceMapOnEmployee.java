@@ -1,7 +1,4 @@
-package com.algorithm.functionalProgramming.reducaMap;
-
-import org.apache.commons.lang3.RandomStringUtils;
-import org.apache.commons.lang3.time.DateUtils;
+package com.current.functionalProgramming.reducaMap;
 
 import java.text.DateFormat;
 import java.text.DateFormatSymbols;

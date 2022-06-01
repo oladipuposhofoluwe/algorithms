@@ -1,4 +1,4 @@
-package com.algorithm.algorithm2;
+package com.current.algorithm2;
 
 import java.util.Arrays;
 import java.util.HashMap;

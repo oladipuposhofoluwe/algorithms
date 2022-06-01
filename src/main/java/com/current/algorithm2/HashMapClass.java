@@ -1,10 +1,9 @@
-package com.algorithm.algorithm2;
+package com.current.algorithm2;
 
 import org.apache.commons.lang3.time.DateUtils;
 
 import java.time.Instant;
 import java.util.*;
-import java.util.stream.Stream;
 
 public class HashMapClass {
     public static void main(String[] args) {

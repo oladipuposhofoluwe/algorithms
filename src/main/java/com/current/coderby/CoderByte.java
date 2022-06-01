@@ -1,4 +1,4 @@
-package com.algorithm.coderby;
+package com.current.coderby;
 
 import java.util.Arrays;
 

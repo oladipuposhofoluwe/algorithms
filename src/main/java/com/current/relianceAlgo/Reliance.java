@@ -1,4 +1,4 @@
-package com.algorithm.relianceAlgo;
+package com.current.relianceAlgo;
 
 import java.io.BufferedReader;
 import java.io.IOException;

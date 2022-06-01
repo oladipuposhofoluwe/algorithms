@@ -1,4 +1,4 @@
-package com.algorithm.functionalProgramming.sortlist;
+package com.current.functionalProgramming.sortlist;
 
 import java.util.Comparator;
 import java.util.List;

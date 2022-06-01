@@ -1,4 +1,4 @@
-package com.algorithm.treealgorithm;
+package com.current.treealgorithm;
 
 public class Main {
     public static void main(String[] args) {

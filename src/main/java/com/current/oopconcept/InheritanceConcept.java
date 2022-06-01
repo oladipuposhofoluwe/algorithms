@@ -1,4 +1,4 @@
-package com.algorithm.oopconcept;
+package com.current.oopconcept;
 
 class Calculator{
     public int add(int i, int j){

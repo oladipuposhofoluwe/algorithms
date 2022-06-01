@@ -1,6 +1,6 @@
-package com.algorithm.functionalProgramming.sortmap;
+package com.current.functionalProgramming.sortmap;
 
-import com.algorithm.functionalProgramming.sortlist.Employee;
+import com.current.functionalProgramming.sortlist.Employee;
 
 import java.util.*;
 

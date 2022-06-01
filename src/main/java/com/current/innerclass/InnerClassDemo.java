@@ -1,4 +1,4 @@
-package com.algorithm.innerclass;
+package com.current.innerclass;
 
 
 

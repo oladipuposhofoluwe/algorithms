@@ -1,19 +1,13 @@
-package com.algorithm.algorithm;
+package com.current.algorithm;
 
-import org.apache.catalina.filters.RestCsrfPreventionFilter;
 import org.apache.commons.lang3.time.DateUtils;
 
-import javax.swing.plaf.IconUIResource;
 import java.text.DateFormatSymbols;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.time.LocalDate;
-import java.time.YearMonth;
-import java.time.temporal.ChronoUnit;
 import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Algorithm {
 

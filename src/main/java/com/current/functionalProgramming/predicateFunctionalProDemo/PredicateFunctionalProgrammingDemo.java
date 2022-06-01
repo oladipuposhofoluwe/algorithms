@@ -1,4 +1,4 @@
-package com.algorithm.functionalProgramming.predicateFunctionalProDemo;
+package com.current.functionalProgramming.predicateFunctionalProDemo;
 
 import java.util.Arrays;
 import java.util.List;

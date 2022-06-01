@@ -1,6 +1,4 @@
-package com.algorithm.relianceAlgo;
-
-import com.sun.jdi.connect.spi.Connection;
+package com.current.relianceAlgo;
 
 import java.io.BufferedReader;
 import java.io.IOException;

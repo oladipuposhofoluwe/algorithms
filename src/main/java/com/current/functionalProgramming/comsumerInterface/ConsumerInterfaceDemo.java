@@ -1,8 +1,7 @@
-package com.algorithm.functionalProgramming.comsumerInterface;
+package com.current.functionalProgramming.comsumerInterface;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.Consumer;
 
 public class ConsumerInterfaceDemo {
 

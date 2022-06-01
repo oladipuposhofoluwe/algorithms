@@ -1,4 +1,4 @@
-package com.algorithm.functionalProgramming.sortlist;
+package com.current.functionalProgramming.sortlist;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

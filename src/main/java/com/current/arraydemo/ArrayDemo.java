@@ -1,4 +1,4 @@
-package com.algorithm.arraydemo;
+package com.current.arraydemo;
 
 
 class Student{

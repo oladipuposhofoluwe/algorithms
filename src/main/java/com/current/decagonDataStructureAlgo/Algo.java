@@ -1,4 +1,4 @@
-package com.algorithm.decagonDataStructureAlgo;
+package com.current.decagonDataStructureAlgo;
 
 import java.util.*;
 

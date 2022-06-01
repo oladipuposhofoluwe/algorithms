@@ -1,4 +1,4 @@
-package com.algorithm.sq7algorithm;
+package com.current.sq7algorithm;
 
 import java.util.*;
 

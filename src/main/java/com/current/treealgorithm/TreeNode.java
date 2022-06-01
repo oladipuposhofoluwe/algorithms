@@ -1,4 +1,4 @@
-package com.algorithm.treealgorithm;
+package com.current.treealgorithm;
 
 import java.util.ArrayList;
 

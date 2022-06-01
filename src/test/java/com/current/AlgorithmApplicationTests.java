@@ -1,4 +1,4 @@
-package com.algorithm;
+package com.current;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

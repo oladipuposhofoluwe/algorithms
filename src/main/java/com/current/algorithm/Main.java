@@ -1,4 +1,4 @@
-package com.algorithm.algorithm;
+package com.current.algorithm;
 
  class calc{
     int num1;

@@ -1,4 +1,4 @@
-package com.algorithm.algorithm4;
+package com.current.algorithm4;
 
 import java.util.Arrays;
 import java.util.UUID;

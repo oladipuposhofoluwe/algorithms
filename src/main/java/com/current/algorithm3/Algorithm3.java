@@ -1,6 +1,5 @@
-package com.algorithm.algorithm3;
+package com.current.algorithm3;
 
-import java.util.Arrays;
 import java.util.Locale;
 
 public class Algorithm3 {

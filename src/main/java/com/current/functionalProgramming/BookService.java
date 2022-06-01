@@ -1,7 +1,6 @@
-package com.algorithm.functionalProgramming;
+package com.current.functionalProgramming;
 
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class BookService {

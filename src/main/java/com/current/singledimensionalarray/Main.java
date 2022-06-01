@@ -1,4 +1,4 @@
-package com.algorithm.singledimensionalarray;
+package com.current.singledimensionalarray;
 
 public class Main {
     public static void main(String[] args) {

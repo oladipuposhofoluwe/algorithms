@@ -1,6 +1,5 @@
-package com.algorithm.abstractClass;
+package com.current.abstractClass;
 
-import java.io.File;
 import java.util.Arrays;
 
 abstract class Human{

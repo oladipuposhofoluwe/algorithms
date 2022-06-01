@@ -1,7 +1,4 @@
-package com.algorithm.methodoverriden;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.current.methodoverriden;
 
 class A {
     public void show(){

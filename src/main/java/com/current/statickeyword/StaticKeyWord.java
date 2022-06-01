@@ -1,4 +1,4 @@
-package com.algorithm.statickeyword;
+package com.current.statickeyword;
 
 class Employee{
     int emplId;

@@ -1,4 +1,4 @@
-package com.algorithm.functionalProgramming;
+package com.current.functionalProgramming;
 
 interface Calculator {
     int subtract(int i1, int i2);

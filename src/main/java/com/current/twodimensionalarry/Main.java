@@ -1,4 +1,4 @@
-package com.algorithm.twodimensionalarry;
+package com.current.twodimensionalarry;
 
 import java.util.Arrays;
 

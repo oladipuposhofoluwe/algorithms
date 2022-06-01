@@ -1,4 +1,4 @@
-package com.algorithm.decagonDataStructureAlgo.buildingArray;
+package com.current.decagonDataStructureAlgo.buildingArray;
 
 public class Datas {
     private int value;

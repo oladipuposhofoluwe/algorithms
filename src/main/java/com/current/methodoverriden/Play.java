@@ -1,5 +1,5 @@
-package com.algorithm.methodoverriden;
-import com.algorithm.Employee;
+package com.current.methodoverriden;
+import com.current.Employee;
 
 import java.util.*;
 import java.util.stream.Collectors;

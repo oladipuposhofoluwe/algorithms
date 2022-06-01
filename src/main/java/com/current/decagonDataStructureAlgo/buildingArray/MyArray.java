@@ -1,4 +1,4 @@
-package com.algorithm.decagonDataStructureAlgo.buildingArray;
+package com.current.decagonDataStructureAlgo.buildingArray;
 
 import java.util.ArrayList;
 import java.util.Collection;

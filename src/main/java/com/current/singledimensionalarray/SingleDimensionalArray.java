@@ -1,4 +1,4 @@
-package com.algorithm.singledimensionalarray;
+package com.current.singledimensionalarray;
 
 public class SingleDimensionalArray {
     int [] arr;

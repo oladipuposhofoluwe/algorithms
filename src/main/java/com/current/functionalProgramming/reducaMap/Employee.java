@@ -1,4 +1,4 @@
-package com.algorithm.functionalProgramming.reducaMap;
+package com.current.functionalProgramming.reducaMap;
 
 
 import lombok.AllArgsConstructor;

@@ -1,8 +1,7 @@
-package com.algorithm.functionalProgramming.supplierDemo;
+package com.current.functionalProgramming.supplierDemo;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.Supplier;
 
 public class SupplierDemo {
     public static void main(String[] args) {

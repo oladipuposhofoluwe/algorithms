@@ -1,4 +1,4 @@
-package com.algorithm;
+package com.current;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

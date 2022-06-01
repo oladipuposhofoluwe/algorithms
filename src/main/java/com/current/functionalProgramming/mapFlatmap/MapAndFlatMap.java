@@ -1,4 +1,4 @@
-package com.algorithm.functionalProgramming.mapFlatmap;
+package com.current.functionalProgramming.mapFlatmap;
 
 import java.util.List;
 import java.util.stream.Collectors;

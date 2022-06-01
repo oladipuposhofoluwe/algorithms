@@ -1,9 +1,8 @@
-package com.algorithm.functionalProgramming;
+package com.current.functionalProgramming;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import lombok.ToString;
 
 
 @Data
